@@ -1,5 +1,8 @@
 # Govind-stores-ecommerce-sales-dashboard
 
+Overview
+This guide provides a step-by-step approach to creating an insightful sales dashboard for Govind's E-Commerce store using Power BI. The dashboard will display key metrics and visualizations, such as profit by month, profit by sub-category, and orders by category. By following these steps, you will be able to transform raw Excel data into an interactive and visually appealing Power BI dashboard.
+
 ###Step
 
 #### 1. ###SetUpYourExcelData
@@ -64,3 +67,6 @@
 - To share, click on `File` -> `Publish` -> `Publish to Power BI`.
 
 This guide walks through setting up a comprehensive dashboard in Power BI using Excel data, focusing on various visualizations and customization techniques to enhance readability and functionality.
+
+summary
+By following this guide, you will be able to create a comprehensive and visually appealing sales dashboard for Govind's E-Commerce store. This dashboard will help you track performance, identify trends, and make informed business decisions. Save your work regularly and share your insights with stakeholders by publishing the dashboard to Power BI. Happy analyzing!
